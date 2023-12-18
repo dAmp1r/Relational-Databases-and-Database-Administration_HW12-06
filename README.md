@@ -1,4 +1,4 @@
-# dAmp1r-Relational-Databases-and-Database-Administration_HW12-06
+# Relational-Databases-and-Database-Administration_HW12-06
 
 *Репликация и масштабирование. Часть 1 - Горбунов Д.Н.*
 
