@@ -9,3 +9,7 @@ mastet-master - обе базы являются как master так и slave, 
 
 Задание 2.
 
+![](https://github.com/dAmp1r/dAmp1r-Relational-Databases-and-Database-Administration_HW12-06/blob/main/1.png)                     
+![](https://github.com/dAmp1r/dAmp1r-Relational-Databases-and-Database-Administration_HW12-06/blob/main/2.png)                        
+![](https://github.com/dAmp1r/dAmp1r-Relational-Databases-and-Database-Administration_HW12-06/blob/main/3.png)                         
+![](https://github.com/dAmp1r/dAmp1r-Relational-Databases-and-Database-Administration_HW12-06/blob/main/4.png)                          
